@@ -1,13 +1,42 @@
-# Landing Page Project
+﻿# Landing Page Project
 
-## Table of Contents
+> This project showcases a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
 
-* [Instructions](#instructions)
+![](html-js-css-logo.png)
 
-## Instructions
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## The Landing Page
 
-To get started, open `js/app.js` and start building out the app's functionality
+![](landing_page_screenshot.jpg)
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+Visit the website [here](https://thepembeweb.github.io/landing-page/index.html)
+
+## Installation
+
+### Setup
+
+* Clone the repo `git clone https://github.com/thepembeweb/landing-page.git`
+* Open the index.html file in your browser to run the website
+
+Alternatively you can view the website [here](https://thepembeweb.github.io/landing-page/index.html).
+
+## Built With
+
+* [HTML](https://en.wikipedia.org/wiki/HTML) - The markup language used
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - The style sheet language used
+* [Javascript](https://en.wikipedia.org/wiki/JavaScript) - The programming language used
+
+## Authors
+
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Landing Page Project](https://github.com/thepembeweb/landing-page)
+
+## License
+
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+- Copyright 2020 © [Pemberai Sweto](https://github.com/thepembeweb).
+
+
+
