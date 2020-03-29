@@ -1,6 +1,6 @@
 ﻿# Landing Page Project
 
-> This project showcases a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+> This project showcases a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page using pure HTML, CSS and Javascript.
 
 ![](html-js-css-logo.png)
 
