@@ -6,7 +6,7 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## The Landing Page
+## Landing Page
 
 ![](landing_page_screenshot.jpg)
 
